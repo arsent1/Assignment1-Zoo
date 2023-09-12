@@ -1,0 +1,48 @@
+body {
+  font-family: Courier New;
+  background-color: silver;
+  text-align: center;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
+
+.pd-desc {
+  margin: 20px 10%;
+  text-align: center;
+}
+
+.diet {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-block;
+}
+
+.pd1,.pd2,.pd3 {
+  display: inline-block;
+  margin: 0px 30px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: antiquewhite;
+  background-image: none;
+  background-size: cover;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 10px 10px;
+  margin-top: 45px;
+  background-color: aliceblue;
+  color: black;
+  text-decoration: none;
+}
+
+.home-button:hover {
+  color: #6E6362;
+}
