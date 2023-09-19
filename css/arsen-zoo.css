@@ -6,15 +6,15 @@ body {
 
 .animal-grid {
     display: grid;
-    grid-template-columns: 100px;
-    grid-template-rows: 75px;
+    grid-template-columns: repeat(2, auto);
     grid-gap: 10px;
-    
+    margin: 50x;
+    justify-content: center;
 }
 
 .animal {
-    width: 100px;
-    height: 75px;
+    height: 200px;
+    width: 300px;
 }
 
 .animal img {
