@@ -1,6 +1,11 @@
-# zoo-starter-code
+# Assignment 1-Zoo
 
 This repository is the starter code for Assignment 1 - Zoo.
+### Team Members
+- Rita Chen (@theritac)
+- Arsen Tumanian (@arsent1)
+- Michelle Thaung (@michelle-thaung)
+- Hnin Lwin (@hninl23)
 
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
