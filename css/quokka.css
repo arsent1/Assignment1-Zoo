@@ -1,0 +1,32 @@
+body {
+  font-family: Courier New;
+  background-color: silver;
+  text-align: center;
+  font-size: 150%
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+  float : left;
+}
+
+.container {
+  display: grid;
+  align-items: center; 
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+}
+
+.image {
+  padding-left: 120px;
+}
+
+.text {
+  padding-right: 20px;
+}
+
+.home {
+  padding-top: 50px;
+}
