@@ -6,6 +6,16 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.zoo-return {
+    text-decoration: none;
+    color: black;
+}
+
 .animal-info {
     width: 65%; 
     box-sizing: border-box;
