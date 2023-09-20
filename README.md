@@ -8,7 +8,7 @@ This repository is the starter code for Assignment 1 - Zoo.
 - Hnin Lwin (@hninl23)
 
 ### Live Link
-[Website link]([https://arsent1.github.io/Assignment1-Zoo])
+[Website link](https://arsent1.github.io/Assignment1-Zoo)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
