@@ -1,0 +1,25 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background: radial-gradient(#e0ecdb, #cff4c0);
+    text-align: center;
+}
+
+.animal-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 10px;
+    margin: 50x;
+    justify-content: center;
+}
+
+.animal {
+    height: 200px;
+    width: 300px;
+}
+
+.animal img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    margin: auto;
+}
