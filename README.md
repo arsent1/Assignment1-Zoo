@@ -1,6 +1,5 @@
 # Assignment 1-Zoo
 
-This repository is the starter code for Assignment 1 - Zoo.
 ### Team Members
 - Rita Chen (@theritac)
 - Arsen Tumanian (@arsent1)
